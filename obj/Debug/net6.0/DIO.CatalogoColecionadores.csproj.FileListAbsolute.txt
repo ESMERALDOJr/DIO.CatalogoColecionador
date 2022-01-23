@@ -1,0 +1,5 @@
+C:\ProjetosDIO\DIO.CatalogoColecionadores\obj\Debug\net6.0\DIO.CatalogoColecionadores.csproj.AssemblyReference.cache
+C:\ProjetosDIO\DIO.CatalogoColecionadores\obj\Debug\net6.0\DIO.CatalogoColecionadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDIO\DIO.CatalogoColecionadores\obj\Debug\net6.0\DIO.CatalogoColecionadores.AssemblyInfoInputs.cache
+C:\ProjetosDIO\DIO.CatalogoColecionadores\obj\Debug\net6.0\DIO.CatalogoColecionadores.AssemblyInfo.cs
+C:\ProjetosDIO\DIO.CatalogoColecionadores\obj\Debug\net6.0\DIO.CatalogoColecionadores.csproj.CoreCompileInputs.cache
